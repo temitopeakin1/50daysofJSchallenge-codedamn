@@ -1,2 +1,2 @@
 # 50daysofJSchallenge-codedamn
-I decided to go through the challenge of 50days of JS by Codedamn to cement my Skills in the JavaScript Realm 
+I decided to go through the challenge of 50days of JS by Codedamn to cement my Skills in the JavaScript Realm starting from January 1st 2022
